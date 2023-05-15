@@ -1,7 +1,7 @@
-##10 几行 Python 代码，轻松实现 PDF 转文字（OCR）
+## 10 几行 Python 代码，轻松实现 PDF 转文字（OCR）
 
 ### 介绍
-
+nf
 光学字符识别 （OCR） 是一种允许用户将包含文本的扫描文档、图像或 PDF 转换为可搜索和可编辑的数字格式的技术。在本文中，我们将探讨如何设置和使用 Pytesseract（一种使用 Google 的 Tesseract 引擎的 OCR 工具）和 Imagemagick（一个强大的图像处理库）在 Windows 和 Mac 计算机上进行 OCR 扫描的 PDF。
 
 ### 设置 Pytesseract 和 Imagemagick
